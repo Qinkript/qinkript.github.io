@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Qinkript
 ---
-Go like the toad, carrying her burden of love. Change.
+Go like the toad, carrying her burden of love.
