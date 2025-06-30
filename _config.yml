@@ -1,5 +1,5 @@
 title: Qinkript
 description: Scraps, failed experiments, stories and other offspring.
-theme: midnight
+theme: Midnight
 exclude:
   - ./elementary
