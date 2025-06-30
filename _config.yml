@@ -1,5 +1,3 @@
 title: Qinkript
 description: Scraps, failed experiments, stories and other offspring.
-remote_theme: abhn/Elementary
-plugins:
-  - jekyll-remote-theme
+theme: elementary
